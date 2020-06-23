@@ -1,3 +1,4 @@
 import os
 print("awfrf")
-print("嘻嘻")
+print("xixi")
+print("awddawdda")
